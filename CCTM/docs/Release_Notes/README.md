@@ -32,7 +32,10 @@ The Community Multiscale Air Quality (CMAQ) Model version 5.2.1 is a minor updat
 
 ## Post-Processing  
   * [Improve combine's math](Combine_Math.md) (Bill)  
-  * [Add command for extracting specdef files to bldit_project.csh](SpecDefExtraction.md) ( Ben )  
+  * [Add command for extracting specdef files to bldit_project.csh](SpecDefExtraction.md) ( Ben )
+
+## WRF-CMAQ Two-way coupled model
+  * bug fix in twoway_aqprep.F
 
 -----
 
