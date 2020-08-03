@@ -9,6 +9,12 @@ Purpose: This tutorial shares common options and strategies that CMAQ developers
 ```
 limit stacksize unlimited 
 ```
+#### Run time Process Configuration Settings
+
+For these two variable, n should be >= m and m and n should be as close as SQRT(m*n) as possible.
+
+   @ NPCOL  = m; @ NPROW =  n
+
 
 #### HPC Queue Manager Options
 
